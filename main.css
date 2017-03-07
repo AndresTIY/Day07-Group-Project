@@ -1,4 +1,28 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+header {
+  height: 20rem;
+  color: #009FAD;
+  background: url("bike-images/mountainbiker-red.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+  border: 2px #525252 solid; }
+
+.fa {
+  font-size: 4rem; }
+
+.container {
+  text-align: center;
+  padding-top: 3rem;
+  padding-left: 1rem;
+  color: #525252;
+  float: left; }
+
+
+>>>>>>> 43dc493a190a6ac1a96faeab9397f276ac41af0e
 body {
   background-color: #FAFAFA; }
 
@@ -43,6 +67,7 @@ body {
   margin: 2.5rem auto;
   color: #009FAD;
   font-size: 1em; }
+<<<<<<< HEAD
 =======
 header {
   height: 20rem;
@@ -64,5 +89,7 @@ header {
   color: #525252;
   float: left; }
 >>>>>>> 92f22cf1b6246a201930280fd56242e46a8f6d04
+=======
+>>>>>>> 43dc493a190a6ac1a96faeab9397f276ac41af0e
 
 /*# sourceMappingURL=main.css.map */
