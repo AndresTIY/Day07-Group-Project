@@ -1,6 +1,3 @@
 @import "vars";
-
-h4  {
-  color: $color-primary;
-  font-size: 40px;
-}
+@import "base";
+@import "hero";

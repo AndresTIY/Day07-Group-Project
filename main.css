@@ -1,5 +1,24 @@
-h4 {
+body {
+  background-color: #FAFAFA; }
+
+.cta {
+  line-height: 1.5em;
+  width: 50%;
+  box-sizing: border-box;
+  text-align: center;
   color: #009FAD;
-  font-size: 40px; }
+  font-size: 1em;
+  margin: 1rem auto; }
+
+.image-container {
+  width: 100%; }
+  .image-container img {
+    width: 100%; }
+
+.about {
+  font-weight: 100;
+  width: 60%;
+  font-size: 0.8em;
+  color: #525252; }
 
 /*# sourceMappingURL=main.css.map */
