@@ -18,17 +18,18 @@
   - `styles.css`
 
 #### HTML structure
-- Header
-  - `<img>` Logo image
-  - `<h1-3>` Company name
 - Body
-  - Div
-    - description
-  - Div
-    - `<img>` bike photo
-  - Div
-    - `<p>`
-    - contact number
-    - email
+  - Header
+    - `<img>` Logo image
+    - `<h1-3>` Company name
+  - Main
+    - Div
+      - description
+    - Div
+      - `<img>` bike photo
+    - Div
+      - `<p>`
+      - contact number
+      - email
   - Footer
     - LLC info
