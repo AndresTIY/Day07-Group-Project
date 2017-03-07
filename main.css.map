@@ -1,0 +1,11 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"scss/main.scss",
+		"scss/_footer.scss",
+		"scss/_vars.scss"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,MAAM,CAAC;EACL,gBAAgB,EAAE,OAAO;EACzB,SAAS,EAAE,KAAK;EAChB,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,iBAAiB;EACzB,MAAM,EAAE,MAAM;EACd,SAAS,EAAE,KAAK;EAChB,OAAO,EAAE,KAAK;EACd,OAAO,EAAE,mBAAmB,GAC7B;;AAED,MAAM,EAAE,SAAS,EAAE,KAAK;EACtB,KAAK,EAAE,KAAK"
+}

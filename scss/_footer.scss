@@ -1,6 +1,15 @@
 footer {
-  background-color: blue;
-  width: 965px;
+  background-color: #FAFAFA;
+  max-width: 480px;
   text-align: center;
+  border: 2px solid #525252;
+  margin: 0 auto;
+  font-size: .7rem;
+  display: block;
+  padding: 15px 50px 15px 50px;
+}
+
+@media (min-width:480px) {
+  width: 965px;
 
 }
