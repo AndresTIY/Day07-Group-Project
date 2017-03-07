@@ -2,13 +2,13 @@ body {
   background-color: #FAFAFA; }
 
 .cta {
-  line-height: 1.5em;
+  line-height: 1em;
   width: 50%;
   box-sizing: border-box;
   text-align: center;
-  margin: 1rem auto;
+  margin: 2.5rem auto;
   color: #009FAD;
-  font-size: 1em; }
+  font-size: 2em; }
 
 .image-container {
   width: 100%; }
@@ -16,33 +16,31 @@ body {
     width: 100%; }
 
 .about {
-  line-height: 1.5em;
-  width: 50%;
+  line-height: 1em;
+  width: 60%;
   box-sizing: border-box;
   text-align: center;
-  margin: 1rem auto;
+  margin: 2.5rem auto;
   color: #525252;
-  font-size: 0.8em;
-  font-weight: 100;
-  width: 60%; }
+  font-size: 1.8em;
+  font-weight: 100; }
 
 .phone {
-  line-height: 1.5em;
+  line-height: 1em;
   width: 50%;
   box-sizing: border-box;
   text-align: center;
-  margin: 1rem auto;
+  margin: 2.5rem auto;
   color: #009FAD;
-  font-size: 1.4em;
-  width: 50%; }
+  font-size: 1em; }
 
 .email {
-  line-height: 1.5em;
-  width: 50%;
+  line-height: 1em;
+  width: auto;
   box-sizing: border-box;
   text-align: center;
-  margin: 1rem auto;
-  color: #525252;
+  margin: 2.5rem auto;
+  color: #009FAD;
   font-size: 1em; }
 
 /*# sourceMappingURL=main.css.map */

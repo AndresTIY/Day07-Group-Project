@@ -1,5 +1,5 @@
 .cta  {
-  @include text-position ($color-primary, 1em);
+  @include text-position ($color-primary, 2em, 50%);
 }
 .image-container {
   width: 100%;
@@ -7,16 +7,14 @@
     width: 100%;
   }
 }
+
 .about {
-  @include text-position(#525252, 0.8em) ;
+  @include text-position(#525252, 1.8em, 60%) ;
   font-weight: 100;
-  width: 60%;
 }
 .phone {
-  @include text-position ($color-primary, 1.4em);
-  width: 50%;
+  @include text-position ($color-primary, 1em, 50%);
 }
 .email {
-  @include text-position (#525252, 1em);
-
+  @include text-position ($color-primary, 1em, auto);
 }
