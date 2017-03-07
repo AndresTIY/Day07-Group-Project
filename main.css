@@ -6,9 +6,9 @@ body {
   width: 50%;
   box-sizing: border-box;
   text-align: center;
+  margin: 1rem auto;
   color: #009FAD;
-  font-size: 1em;
-  margin: 1rem auto; }
+  font-size: 1em; }
 
 .image-container {
   width: 100%; }
@@ -16,9 +16,33 @@ body {
     width: 100%; }
 
 .about {
-  font-weight: 100;
-  width: 60%;
+  line-height: 1.5em;
+  width: 50%;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 1rem auto;
+  color: #525252;
   font-size: 0.8em;
-  color: #525252; }
+  font-weight: 100;
+  width: 60%; }
+
+.phone {
+  line-height: 1.5em;
+  width: 50%;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 1rem auto;
+  color: #009FAD;
+  font-size: 1.4em;
+  width: 50%; }
+
+.email {
+  line-height: 1.5em;
+  width: 50%;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 1rem auto;
+  color: #525252;
+  font-size: 1em; }
 
 /*# sourceMappingURL=main.css.map */

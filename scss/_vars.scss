@@ -1,2 +1,12 @@
 $color-primary: #009FAD;
 $color-background: #FAFAFA;
+
+@mixin text-position ($color, $font-size) {
+  line-height: 1.5em;
+  width: 50%;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 1rem auto;
+  color: $color;
+  font-size: $font-size;
+}
