@@ -1,24 +1,24 @@
-
-
 header {
   height: 20rem;
-  color: #009FAD;
+  color: $color-primary;
   background: url("bike-images/mountainbiker-red.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   margin: 0 auto;
-  border: 2px #525252 solid; }
+  border: 2px $color-gray solid;
+}
 
 .fa {
-  font-size: 4rem; }
-
+  font-size: 4rem;
+}
 .container {
   text-align: center;
   padding-top: 3rem;
   padding-left: 1rem;
-  color: #525252;
-  float: left; }
-
-
-/*# sourceMappingURL=main.css.map */
+  color: $color-gray;
+  float: left;
+}
+// @media (min-width:604px) {
+//   background-position: center;
+// }
