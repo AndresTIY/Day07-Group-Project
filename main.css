@@ -3,16 +3,19 @@ header {
   color: #009FAD;
   background: url("bike-images/mountainbiker-red.png");
   background-size: cover;
-  background-position: -50px; }
-
-img {
-  width: 100%; }
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+  border: 2px #525252 solid; }
 
 .fa {
-  font-size: 7rem; }
+  font-size: 4rem; }
 
 .container {
   text-align: center;
-  padding-top: 3rem; }
+  padding-top: 3rem;
+  padding-left: 1rem;
+  color: #525252;
+  float: left; }
 
 /*# sourceMappingURL=main.css.map */
