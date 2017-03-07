@@ -1,3 +1,18 @@
 header {
+  height: 20rem;
   color: $color-primary;
+  background: url("bike-images/mountainbiker-red.png");
+  background-size: cover;
+  background-position: -50px;
+
+}
+img {
+  width: 100%;
+}
+.fa {
+  font-size: 4rem;
+}
+.container {
+  text-align: center;
+  padding-top: 20%
 }
