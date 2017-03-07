@@ -2,10 +2,26 @@
 	"version": 3,
 	"file": "main.css",
 	"sources": [
+<<<<<<< HEAD
 		"scss/main.scss",
 		"scss/_footer.scss",
 		"scss/_vars.scss"
 	],
 	"names": [],
 	"mappings": "ACAA,AAAA,MAAM,CAAC;EACL,gBAAgB,EAAE,OAAO;EACzB,SAAS,EAAE,KAAK;EAChB,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,iBAAiB;EACzB,MAAM,EAAE,MAAM;EACd,SAAS,EAAE,KAAK;EAChB,OAAO,EAAE,KAAK;EACd,OAAO,EAAE,mBAAmB,GAC7B;;AAED,MAAM,EAAE,SAAS,EAAE,KAAK;EACtB,KAAK,EAAE,KAAK"
+=======
+
+		"scss/main.scss"
+	],
+	"names": [],
+	"mappings": ""
+
+		"scss/main.scss",
+		"scss/_vars.scss",
+		"scss/_header.scss"
+	],
+	"names": [],
+	"mappings": "AEAA,AAAA,MAAM,CAAC;EACL,MAAM,EAAE,KAAK;EACb,KAAK,EDDS,OAAO;ECErB,UAAU,EAAE,wCAAwC;EACpD,eAAe,EAAE,KAAK;EACtB,iBAAiB,EAAE,SAAS;EAC5B,mBAAmB,EAAE,MAAM;EAC3B,MAAM,EAAE,MAAM;EACd,MAAM,EAAE,GAAG,CDNA,OAAO,CCMM,KAAK,GAC9B;;AAED,AAAA,GAAG,CAAC;EACF,SAAS,EAAE,IAAI,GAChB;;AACD,AAAA,UAAU,CAAC;EACT,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,KAAK,EDhBM,OAAO;ECiBlB,KAAK,EAAE,IAAI,GACZ"
+
+>>>>>>> 2d96d6588109c9903233b6ac537ac4f09cff6a92
 }

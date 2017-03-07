@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 footer {
   background-color: #FAFAFA;
   max-width: 480px;
@@ -10,5 +11,29 @@ footer {
 
 @media (min-width: 480px) {
   width: 965px; }
+=======
+
+
+header {
+  height: 20rem;
+  color: #009FAD;
+  background: url("bike-images/mountainbiker-red.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+  border: 2px #525252 solid; }
+
+.fa {
+  font-size: 4rem; }
+
+.container {
+  text-align: center;
+  padding-top: 3rem;
+  padding-left: 1rem;
+  color: #525252;
+  float: left; }
+
+>>>>>>> 2d96d6588109c9903233b6ac537ac4f09cff6a92
 
 /*# sourceMappingURL=main.css.map */
