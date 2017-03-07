@@ -19,15 +19,15 @@
 
 #### HTML structure
 - Header
-  - <img> Logo image
-  - <h1-3> Company name
+  - `<img>` Logo image
+  - `<h1-3>` Company name
 - Body
   - Div
     - description
   - Div
-    - <img> bike photo
+    - `<img>` bike photo
   - Div
-    - <p>
+    - `<p>`
     - contact number
     - email
   - Footer
