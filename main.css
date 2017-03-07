@@ -1,4 +1,14 @@
-<<<<<<< HEAD
+
+header {
+  height: 20rem;
+  color: #009FAD;
+  background: url("bike-images/mountainbiker-red.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+  border: 2px #525252 solid; }
+
 footer {
   background-color: #FAFAFA;
   max-width: 480px;
@@ -11,18 +21,7 @@ footer {
 
 @media (min-width: 480px) {
   width: 965px; }
-=======
 
-
-header {
-  height: 20rem;
-  color: #009FAD;
-  background: url("bike-images/mountainbiker-red.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  margin: 0 auto;
-  border: 2px #525252 solid; }
 
 .fa {
   font-size: 4rem; }
@@ -34,6 +33,50 @@ header {
   color: #525252;
   float: left; }
 
->>>>>>> 2d96d6588109c9903233b6ac537ac4f09cff6a92
+
+body {
+  background-color: #FAFAFA; }
+
+.cta {
+  line-height: 1em;
+  width: 50%;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 2.5rem auto;
+  color: #009FAD;
+  font-size: 2em; }
+
+.image-container {
+  width: 100%; }
+  .image-container img {
+    width: 100%; }
+
+.about {
+  line-height: 1em;
+  width: 60%;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 2.5rem auto;
+  color: #525252;
+  font-size: 1.8em;
+  font-weight: 100; }
+
+.phone {
+  line-height: 1em;
+  width: 50%;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 2.5rem auto;
+  color: #009FAD;
+  font-size: 1em; }
+
+.email {
+  line-height: 1em;
+  width: auto;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 2.5rem auto;
+  color: #009FAD;
+  font-size: 1em; }
 
 /*# sourceMappingURL=main.css.map */

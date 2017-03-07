@@ -1,3 +1,27 @@
 $color-background: #FAFAFA;
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
 $color-primary: #009FAD;
 $color-gray: #525252;
+
+>>>>>>> 43dc493a190a6ac1a96faeab9397f276ac41af0e
+
+@mixin text-position ($color, $font-size, $width) {
+  line-height: 1em;
+  width: $width;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 2.5rem auto;
+  color: $color;
+  font-size: $font-size;
+}
+<<<<<<< HEAD
+=======
+$color-primary: #009FAD;
+$color-gray: #525252;
+>>>>>>> 92f22cf1b6246a201930280fd56242e46a8f6d04
+=======
+
+>>>>>>> 43dc493a190a6ac1a96faeab9397f276ac41af0e
