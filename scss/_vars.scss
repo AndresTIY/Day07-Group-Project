@@ -1,5 +1,8 @@
-$color-primary: #009FAD;
 $color-background: #FAFAFA;
+
+$color-primary: #009FAD;
+$color-gray: #525252;
+
 
 @mixin text-position ($color, $font-size, $width) {
   line-height: 1em;
@@ -10,3 +13,4 @@ $color-background: #FAFAFA;
   color: $color;
   font-size: $font-size;
 }
+
